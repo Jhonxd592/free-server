@@ -98,3 +98,5 @@
 [02May2025 19:42:56.726] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 25817 ms
 [02May2025 19:42:56.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (31.975s)! For help, type "help"
 [02May2025 19:42:56.742] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[02May2025 20:12:28.378] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jhonxd593[/127.29.203.18:52227] logged in with entity id 454 at (-8.5, 93.0, 2.5)
+[02May2025 20:12:28.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd593 joined the game
